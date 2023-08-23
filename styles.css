@@ -18,6 +18,15 @@ nav ul {
   color: #48483a;
 }
 
+nav ul a {
+  text-decoration: none;
+  color: #48483a;
+}
+
+nav ul a:hover {
+  color: white;
+}
+
 .main-head {
   display: flex;
   align-items: center;
